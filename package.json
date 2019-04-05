@@ -2,5 +2,12 @@
   "name": "js-xbvwnr",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.6.3",
+    "fullcalendar": "^3.10.0",
+    "jquery": "1.9.1 - 3",
+    "moment": "^2.20.1",
+    "popper.js": "^1.14.7"
+  }
 }
